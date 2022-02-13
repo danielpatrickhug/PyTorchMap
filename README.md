@@ -22,9 +22,11 @@ html
 
 ## PyTorch Architecture
 - Root: https://github.com/pytorch/pytorch
-- Internals: http://blog.ezyang.com/2019/05/pytorch-internals/
-- Dispatcher: http://blog.ezyang.com/2020/09/lets-talk-about-the-pytorch-dispatcher/
+
+- Dispatcher: https://github.com/pytorch/pytorch/blob/master/torch/_python_dispatcher.py
+    - http://blog.ezyang.com/2020/09/lets-talk-about-the-pytorch-dispatcher/
 - aten: https://github.com/pytorch/pytorch/tree/master/aten
+    - Internals: http://blog.ezyang.com/2019/05/pytorch-internals/
 - c10: https://github.com/pytorch/pytorch/tree/master/c10
 - torch: https://github.com/pytorch/pytorch/tree/master/torch
     - Refer to the docs
