@@ -12,7 +12,6 @@ A Map of links for learning PyTorch code, documentation, ecosystem, and open sou
 - nn.functional: https://pytorch.org/docs/stable/nn.functional.html
 - optim: https://pytorch.org/docs/stable/optim.html
 - autograd: https://pytorch.org/docs/stable/autograd.html
-html
 - onnx: https://pytorch.org/docs/stable/onnx.html
 - jit: https://pytorch.org/docs/stable/jit.html
 - distributed: https://pytorch.org/docs/stable/distributed.html
