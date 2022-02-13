@@ -58,3 +58,34 @@ html
 - Making a Pull request: https://youtu.be/c6b6B9oN4Vg
 - PyTorch Dev Podcast: https://pytorch-dev-podcast.simplecast.com/episodes
     - supplemental links(pull request, library code) for each episode
+
+## Project Ideas if you want:
+- Project Idea: Convert Keras's fantastic examples library to pytorch: 
+    - Examples: https://github.com/pytorch/examples  
+    - convert https://keras.io/examples/ to pytorch examples
+- Project Idea: DIY Minitorch
+    - Docs/Tutorial: https://minitorch.github.io/index.html
+    - Modules: https://github.com/minitorch/
+- Project Idea: GAN
+    - CycleGAN Turn a horse into a zebra
+    - VQ-GAN generate art
+- Advanced Project Idea: CLIP text2image art generation
+    - CLIP Transformer
+    - https://ml.berkeley.edu/blog/posts/clip-art/
+- Project Idea: Build an API to serve a pytorch or onnx NN model
+    - FastAPI, Flask, Sannic or AWS
+- Project Idea: Generate english text or code
+    - GPT-j
+- Project Idea: Binary Classification text sentiment
+    - BERT
+- Project Idea: Research Paper to code
+    - implement a research paper in Pytorch
+ 
+## Research paper and code Lookup and Discovery
+- arXiv: https://arxiv.org/
+- arXiv Sanity: https://arxiv-sanity-lite.com/
+- Papers with Code: https://paperswithcode.com/
+- AI/ML Papers with Code Everywhere: https://chrome.google.com/webstore/detail/aiml-papers-with-code-eve/aikkeehnlfpamidigaffhfmgbkdeheil?hl=en
+- Berkley Reading List: https://ml.berkeley.edu/reading-list/
+- Google Scholar: https://scholar.google.com/
+- A lot of video explanations: https://www.youtube.com/c/YannicKilcher
