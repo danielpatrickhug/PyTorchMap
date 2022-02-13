@@ -31,7 +31,9 @@ A Map of links for learning PyTorch code, documentation, ecosystem, and open sou
     - Refer to the docs
 - cmake: https://github.com/pytorch/pytorch/tree/master/cmake
 - vmap: https://github.com/pytorch/pytorch/blob/master/aten/src/ATen/VmapTransforms.h
-
+- CUDA graphs: https://developer.nvidia.com/blog/cuda-graphs/
+    - Pull Request: https://github.com/pytorch/pytorch/pull/51436 
+    - Pull Request: https://github.com/pytorch/pytorch/pull/46148
 
 ## EcoSystem
 - Python: https://www.python.org/
