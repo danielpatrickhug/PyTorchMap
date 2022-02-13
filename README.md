@@ -1,5 +1,5 @@
 # PyTorchMap
-A Map for learning PyTorch code, documentation, ecosystem, and open source process
+A Map of links for learning PyTorch code, documentation, ecosystem, and open source process
 
 ## Docs
 - Root: https://pytorch.org/docs/stable/index.html
