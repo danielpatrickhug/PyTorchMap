@@ -34,7 +34,7 @@ A Map of links for learning PyTorch code, documentation, ecosystem, and open sou
 - CUDA graphs: https://developer.nvidia.com/blog/cuda-graphs/
     - Pull Request: https://github.com/pytorch/pytorch/pull/51436 
     - Pull Request: https://github.com/pytorch/pytorch/pull/46148
-- code generation: https://github.com/pytorch/pytorch/blob/master/tools/codegen/gen.py
+- C++ code generation: https://github.com/pytorch/pytorch/blob/master/tools/codegen/gen.py
 
 ## EcoSystem
 - Python: https://www.python.org/
