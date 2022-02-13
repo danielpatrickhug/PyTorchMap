@@ -61,7 +61,7 @@ A Map of links for learning PyTorch code, documentation, ecosystem, and open sou
 - Meta Open Source: https://www.youtube.com/channel/UCCQY962PmHabTjaHv2wJzfQ
 - Making a Pull request: https://youtu.be/c6b6B9oN4Vg
 - PyTorch Dev Podcast: https://pytorch-dev-podcast.simplecast.com/episodes
-    - supplemental links(pull request, library code) for each episode
+    - supplemental links and context(pull request, library code) for each episode
 
 ## Project Ideas if you want:
 - Project Idea: Convert Keras's fantastic examples library to pytorch: 
