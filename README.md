@@ -27,6 +27,7 @@ A Map of links for learning PyTorch code, documentation, ecosystem, and open sou
     - Blog Post: http://blog.ezyang.com/2020/09/lets-talk-about-the-pytorch-dispatcher/
 - aten "A Tensor Library": https://github.com/pytorch/pytorch/tree/master/aten
     - Blog Post: http://blog.ezyang.com/2019/05/pytorch-internals/
+    - README: https://github.com/pytorch/pytorch/tree/master/aten/src
 - c10: https://github.com/pytorch/pytorch/tree/master/c10
 - torch: https://github.com/pytorch/pytorch/tree/master/torch
     - Refer to the docs
