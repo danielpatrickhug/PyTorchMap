@@ -23,7 +23,7 @@ html
 ## PyTorch Architecture
 - Root: https://github.com/pytorch/pytorch
 
-- Dispatcher: https://github.com/pytorch/pytorch/blob/master/torch/_python_dispatcher.py
+- dispatcher: https://github.com/pytorch/pytorch/blob/master/torch/_python_dispatcher.py
     - http://blog.ezyang.com/2020/09/lets-talk-about-the-pytorch-dispatcher/
 - aten: https://github.com/pytorch/pytorch/tree/master/aten
     - Internals: http://blog.ezyang.com/2019/05/pytorch-internals/
