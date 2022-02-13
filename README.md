@@ -41,6 +41,7 @@ A Map of links for learning PyTorch code, documentation, ecosystem, and open sou
 - Python: https://www.python.org/
 - conda: https://www.anaconda.com/products/individual#download-section
 - PyTorch Lightining: https://www.pytorchlightning.ai/
+- PyTorch Geometric: https://github.com/pyg-team/pytorch_geometric
 - PyTorch Geometric Temporal: https://github.com/benedekrozemberczki/pytorch_geometric_temporal
 - torchtext: https://pytorch.org/tutorials/beginner/transformer_tutorial.html
 - transformers: https://github.com/huggingface/transformers
