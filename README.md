@@ -30,6 +30,7 @@ A Map of links for learning PyTorch code, documentation, ecosystem, and open sou
 - torch: https://github.com/pytorch/pytorch/tree/master/torch
     - Refer to the docs
 - cmake: https://github.com/pytorch/pytorch/tree/master/cmake
+- vmap: https://github.com/pytorch/pytorch/blob/master/aten/src/ATen/VmapTransforms.h
 
 
 ## EcoSystem
@@ -48,6 +49,7 @@ A Map of links for learning PyTorch code, documentation, ecosystem, and open sou
 - hydra: https://github.com/pytorch/hydra-torch
 - Optuna: https://optuna.org/
 - hasktorch: https://github.com/hasktorch/hasktorch
+- functorch: https://github.com/pytorch/functorch
 
 
 ## Meta OpenSource
