@@ -45,6 +45,9 @@ A Map of links for learning PyTorch code, documentation, ecosystem, and open sou
 - FastAI: https://www.fast.ai/
 - PyTorch Geometric: https://github.com/pyg-team/pytorch_geometric
 - PyTorch Geometric Temporal: https://github.com/benedekrozemberczki/pytorch_geometric_temporal
+- skorch: https://github.com/skorch-dev/skorch
+- hasktorch: https://github.com/hasktorch/hasktorch
+- functorch: https://github.com/pytorch/functorch
 - torchtext: https://pytorch.org/tutorials/beginner/transformer_tutorial.html
 - transformers: https://github.com/huggingface/transformers
 - spacy: https://spacy.io/universe
@@ -55,8 +58,7 @@ A Map of links for learning PyTorch code, documentation, ecosystem, and open sou
 - WandB: https://wandb.ai/home
 - hydra: https://github.com/pytorch/hydra-torch
 - Optuna: https://optuna.org/
-- hasktorch: https://github.com/hasktorch/hasktorch
-- functorch: https://github.com/pytorch/functorch
+
 
 
 ## Meta OpenSource
